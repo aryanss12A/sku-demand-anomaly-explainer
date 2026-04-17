@@ -1,0 +1,21 @@
+# Core data stack
+pandas
+numpy
+openpyxl
+
+# Anomaly detection
+prophet
+scikit-learn
+cmdstanpy
+holidays
+
+# AI — Google Gemini (FREE tier, no billing required)
+# Get free API key at: https://aistudio.google.com/app/apikey
+google.genai
+
+# Dashboard
+streamlit
+plotly
+
+# Utilities
+python-dotenv
