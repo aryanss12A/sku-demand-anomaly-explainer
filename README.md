@@ -65,7 +65,7 @@ Raw Sales Data (CSV / DB)
 
 - **Multi-SKU Demand Forecasting** — Facebook Prophet models trained per SKU with automatic seasonality detection (weekly, monthly, promotional)
 - **Unsupervised Anomaly Detection** — Isolation Forest flags residual anomalies between actual sales and forecast baseline; contamination tuned per product category
-- **AI-Powered Root Cause Reports** — Claude API generates structured, context-aware explanations for each anomaly, citing seasonality, regional factors, and historical patterns
+- **AI-Powered Root Cause Reports** — Gemini API generates structured, context-aware explanations for each anomaly, citing seasonality, regional factors, and historical patterns
 - **Power BI Ops Dashboard** — Live-connected dashboard with SKU drill-through, anomaly heatmap, and forecast vs. actual overlays
 - **Streamlit Explorer App** — Interactive web app for category managers to query any SKU, date range, and view AI-generated reports on demand
 
