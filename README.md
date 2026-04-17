@@ -90,7 +90,7 @@ Raw Sales Data (CSV / DB)
 | Data Processing | Python, Pandas, NumPy | Ingestion, cleaning, feature engineering |
 | Forecasting | Facebook Prophet | SKU-level time-series demand forecasting |
 | Anomaly Detection | Scikit-learn Isolation Forest | Unsupervised outlier detection on residuals |
-| AI Explanation | Google Gemini API (claude-sonnet) | Natural language root cause generation |
+| AI Explanation | Google Gemini API (gemini-2.5-Flash) | Natural language root cause generation |
 | Visualization | Power BI, Matplotlib, Seaborn | Ops dashboard + exploratory charts |
 | App Layer | Streamlit | Interactive SKU explorer for business users |
 | Data Storage | SQLite / CSV | Lightweight local data store |
