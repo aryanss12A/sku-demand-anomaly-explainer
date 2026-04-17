@@ -113,7 +113,7 @@ sku-anomaly-explainer/
 
 ### Prerequisites
 - Python 3.10+
-- An [Anthropic API key](https://aistudio.google.com/)
+- An [Gemini API key](https://aistudio.google.com/)
 
 ### Installation
 
@@ -132,7 +132,7 @@ pip install -r requirements.txt
 
 # 4. Set up your API key
 cp .env.example .env
-# Add your Anthropic API key to .env:
+# Add your Gemini API key to .env:
 # Gemini_API_KEY=AQ.AB-...
 ```
 
