@@ -8,9 +8,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**An end-to-end retail demand intelligence system that forecasts SKU-level demand, detects supply chain anomalies, and auto-generates natural-language root cause reports — powered by Facebook Prophet, Isolation Forest, and the Claude API.**
-
-[View Demo](#) · [Report Bug](#) · [Request Feature](#)
+**An end-to-end retail demand intelligence system that forecasts SKU-level demand, detects supply chain anomalies, and auto-generates natural-language root cause reports — powered by Facebook Prophet, Isolation Forest, and the Gemini API.**
 
 </div>
 
@@ -92,7 +90,7 @@ Raw Sales Data (CSV / DB)
 | Data Processing | Python, Pandas, NumPy | Ingestion, cleaning, feature engineering |
 | Forecasting | Facebook Prophet | SKU-level time-series demand forecasting |
 | Anomaly Detection | Scikit-learn Isolation Forest | Unsupervised outlier detection on residuals |
-| AI Explanation | Anthropic Claude API (claude-sonnet) | Natural language root cause generation |
+| AI Explanation | Google Gemini API (claude-sonnet) | Natural language root cause generation |
 | Visualization | Power BI, Matplotlib, Seaborn | Ops dashboard + exploratory charts |
 | App Layer | Streamlit | Interactive SKU explorer for business users |
 | Data Storage | SQLite / CSV | Lightweight local data store |
@@ -228,7 +226,7 @@ Claude returns a structured JSON with: `severity`, `likely_cause`, `contributing
 **Aryan Sachdeva**
 Data Analyst | ML Practitioner | 2+ years building end-to-end data systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aryan-sachdeva-dataanalyst)
 [![GitHub](https://img.shields.io/badge/GitHub-aryanss12A-181717?style=flat-square&logo=github)](https://github.com/aryanss12A)
 
 ---
