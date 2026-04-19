@@ -108,7 +108,7 @@ sku-anomaly-explainer/
 │   ├── explainer.py            # Gemini API LLM layer
 ├── app.py                      # Streamlit frontend
 ├── requirements.txt
-└── .env
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -133,8 +133,6 @@ pip install -r requirements.txt
 # 4. Set up your API key
 cp .env.example .env
 # Add your Gemini API key to .env:
-# Gemini_API_KEY=AQ.AB-...
-```
 
 ### Run the Pipeline
 
